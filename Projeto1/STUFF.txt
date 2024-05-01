@@ -1,0 +1,5 @@
+./ems "/mnt/c/Users/vasco/OneDrive - Universidade de Lisboa/Universidade/2ºAno/1ºSemestre/SistemasOperativos/Projeto1/p1_base/jobs"
+
+valgrind --leak-check=full ./ems "/mnt/c/Users/henri/OneDrive - Universidade de Lisboa/LEIC-A/2Ano_1Semestre/SistemasOperativos/Projeto1/p1_base/jobs"
+
+valgrind --leak-check=full ./ems "/mnt/c/Users/vasco/OneDrive - Universidade de Lisboa/Universidade/2ºAno/1ºSemestre/SistemasOperativos/Projeto1/p1/jobs"
