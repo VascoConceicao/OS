@@ -1,0 +1,1 @@
+make run & ./client/client ./tmp/test11 ./tmp/test12 ./tmp/server ./jobs/a.jobs & ./client/client ./tmp/test21 ./tmp/test22 ./tmp/server ./jobs/b.jobs
